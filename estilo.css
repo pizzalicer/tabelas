@@ -1,0 +1,12 @@
+table,
+table tr td, 
+table tr th {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 1rem;
+}
+
+body{
+    display: grid;
+    grid-template-columns: auto auto auto auto auto;
+}
